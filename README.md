@@ -1,6 +1,5 @@
-# PythonClub
-Repository to practice python and Django
+# Python #Python Language # Python topic examples
 
-Basic python 
 
-To get some knowledge on python for beginners
+python language topics with simple examples .
+you will get some basic knowledge about python by going through the .py files in a project with topic  names.
